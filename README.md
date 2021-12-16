@@ -1,2 +1,2 @@
-# Pro-33
-juego de las pelotas ,competencias
+# C34-Est
+Bola demoledora a cargo del estudiante
